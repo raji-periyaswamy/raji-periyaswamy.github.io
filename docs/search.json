@@ -1,15 +1,92 @@
 [
   {
+    "objectID": "Unwind.html",
+    "href": "Unwind.html",
+    "title": "Unwind",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Rajeshwari Periyaswamy",
     "section": "",
-    "text": "Hi there!\nI am Rajeshwari Periyaswamy (pronounced “ruh-JESH-wuh-ree peh-ree-yuh-SWAH-mee”).\nI prefer to be called Raji (pronounced “RAH-jee”).\n\nI am a graduate research assistant at the University of Florida, where I apply Life Cycle Assessment (LCA) and systems modeling to analyze sustainability in supply chain logistics. I’m a first-generation graduate and researcher — the first in my family to complete a college degree, let alone go on to a Master’s. That journey has shaped how I think as a researcher: driven by perseverance, curiosity, and a deep respect for education."
+    "text": "அறிவது என்னில், அன்பென அறிந்து\n\n\n  \n \nHi there!\nI am Rajeshwari Periyaswamy (pronounced “ruh-JESH-wuh-ree peh-ree-yuh-SWAH-mee”).\nI prefer to be called Raji (pronounced “RAH-jee”).\n\nI am a graduate research assistant at the University of Florida, where I apply Life Cycle Assessment (LCA) and systems modeling to analyze sustainability in supply chain logistics. I’m a first-generation graduate and researcher — the first in my family to complete a college degree, let alone go on to a Master’s. That journey has shaped how I think as a researcher: driven by perseverance, curiosity, and a deep respect for education.\n \n  \n   \n  \n     LinkedIn\n  \n  \n     GitHub\n  \n  \n     Email"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Focus.html",
+    "href": "Focus.html",
+    "title": "Focus",
+    "section": "",
+    "text": "Rajeshwari Periyaswamy Chennai, India rajeshwariperiyaswamy@gmail.com | WhatsApp: +91 81229 56309 | LinkedIn"
+  },
+  {
+    "objectID": "Focus.html#contact",
+    "href": "Focus.html#contact",
+    "title": "Focus",
+    "section": "",
+    "text": "Rajeshwari Periyaswamy Chennai, India rajeshwariperiyaswamy@gmail.com | WhatsApp: +91 81229 56309 | LinkedIn"
+  },
+  {
+    "objectID": "Focus.html#professional-summary",
+    "href": "Focus.html#professional-summary",
+    "title": "Focus",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nResults-driven Data Analyst with 2+ years of industry experience in BI and data engineering at Infosys, and 2 years of advanced research applying data science to real-world sustainability problems at the University of Florida (CGPA 4.0/4.0). Skilled in end-to-end analytics from SQL-based data pipelines and Python automation to interactive dashboards (Power BI, Tableau, R Shiny) and statistical modeling. Combines strong technical depth with domain expertise in supply chain, environmental data, and Life Cycle Assessment (LCA)."
+  },
+  {
+    "objectID": "Focus.html#technical-skills",
+    "href": "Focus.html#technical-skills",
+    "title": "Focus",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nLanguages & Querying: Python, R, SQL, Java, C, C++, HTML\nBI & Visualization: Power BI, Tableau, R Shiny (interactive dashboards), Cognos\nData Engineering: MySQL, Informatica ETL, data pipeline automation, RDBMS\nAnalytics & Modeling: Statistical Modeling, Exploratory Data Analysis (EDA), Life Cycle Assessment (LCA), Quantitative Microbial Risk Assessment (QMRA)\nTools & Platforms: SimaPro, OpenLCA, Microsoft Office Suite, Git\nSoft Skills: Cross-functional collaboration, technical documentation, stakeholder reporting, research communication"
+  },
+  {
+    "objectID": "Focus.html#professional-experience",
+    "href": "Focus.html#professional-experience",
+    "title": "Focus",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nGraduate Research Analyst (Data & Sustainability)\nUniversity of Florida, Gainesville, FL, USA | Aug 2024 – May 2026\n\nLed a comparative Life Cycle Assessment (LCA) study on fresh produce secondary transport packaging, modelling environmental data across the entire US–EU supply chain using SimaPro and OpenLCA, producing actionable insights on carbon footprint and resource use\nBuilt an interactive R Shiny dashboard with Plotly visualizations for real-time LCA scenario comparison, including dynamic breakeven analysis and automated Quarto HTML report generation for users\nDeveloped a dynamic Power BI dashboard to display and communicate LCA results to non-technical stakeholders\nApplied QMRA statistical frameworks (R: biogrowth, mc2d) to model microbial contamination risk in fresh produce, performing EDA, normality testing, and distribution fitting on experimental datasets\nCompleted R Data Wrangling & EDA and R Data Analysis certifications (UF IT Training, Summer 2026), covering data transformation, outlier detection, and advanced ggplot2 visualizations\n\n\n\nPostgraduate Research Assistant\nIIT Kharagpur, India | Jul 2017 – May 2019\n\nConducted molecular and biochemical analyses, applying data interpretation skills to enzyme kinetics datasets – cloned and characterized a β-Lactamase gene using quantitative assay data\nPerformed bioinformatics analyses (NCBI BLAST, CLUSTAL W) on protein sequence datasets, applying computational tools to draw comparative conclusions across species\n\n\n\nSystems Engineer – Business Intelligence & Data Analytics\nInfosys Limited, Chennai, India | Sep 2015 – May 2017\n\nDeveloped Python and MySQL based data automation systems for a multinational telecommunications client, reducing manual data processing efforts by streamlining batch jobs and ETL workflows\nDesigned and maintained relational database models supporting BI reporting needs; worked with Informatica for data integration across source systems\nBuilt Cognos and Tableau dashboards to present KPIs and operational metrics to client stakeholders, enabling faster decision-making\nCollaborated in Agile delivery teams, translating business requirements into technical data solutions"
+  },
+  {
+    "objectID": "Focus.html#education",
+    "href": "Focus.html#education",
+    "title": "Focus",
+    "section": "Education",
+    "text": "Education\nM.S. Agricultural and Biological Engineering University of Florida, USA | Aug 2024 – May 2026 CGPA: 4.00/4.00 | Graduate Research Assistant (Institute Fellowship)\nM.Tech. Biotechnology & Biochemical Engineering IIT Kharagpur, India | Jul 2017 – May 2019 CGPA: 8.95/10 | GATE Scholar (Government of India Merit Scholarship)\nB.Tech. Biotechnology Mepco Schlenk Engineering College, Anna University, India | Aug 2011 – Apr 2015 CGPA: 7.23/10 | Best Final Year Project Award"
+  },
+  {
+    "objectID": "Focus.html#key-projects",
+    "href": "Focus.html#key-projects",
+    "title": "Focus",
+    "section": "Key Projects",
+    "text": "Key Projects\n\nLCA Data Dashboard (R Shiny + Plotly)\nAcademic | 2025 – 2026\n\nBuilt a multi-panel Shiny app comparing environmental impact categories (ReCiPe 2016, TRACI 2.2) across packaging scenarios with hover tooltips, dynamic breakeven analysis, and one-click HTML report export\nSolved complex rendering bugs (zero-sum charts, NA YAML serialization) and implemented .rds-based data transfer between Shiny and Quarto, demonstrating systematic debugging and full-stack R development"
+  },
+  {
+    "objectID": "Focus.html#certifications-trainings",
+    "href": "Focus.html#certifications-trainings",
+    "title": "Focus",
+    "section": "Certifications & Trainings",
+    "text": "Certifications & Trainings\n\nR Data Wrangling & EDA – University of Florida IT Training (May 2026)\nR Data Analysis – University of Florida IT Training (Jun 2026)\nDiploma in Computer Application (DCA) – SRM Infotech (May 2011)"
+  },
+  {
+    "objectID": "Focus.html#publications",
+    "href": "Focus.html#publications",
+    "title": "Focus",
+    "section": "Publications",
+    "text": "Publications\n\nPeriyaswamy, R. (2021). Developmental Biotechnology. In Comprehensive Life Sciences Vol. I. Viva Books, New Delhi. ISBN: 9789390054886\nPeriyaswamy, R. (2021). Fundamental Biotechnology. In Comprehensive Life Sciences Vol. II. Viva Books, New Delhi. ISBN: 9789390054893\nPeriyaswamy, R. (2020). Molecular Biology & Recombinant DNA Technology. In Elements of DBT JRF Biotechnology. Viva Books. ISBN: 9789389662528\nPeriyaswamy, R. (2020). Immunology. In Elements of DBT JRF Biotechnology. Viva Books. ISBN: 9789389662528"
+  },
+  {
+    "objectID": "Musing.html",
+    "href": "Musing.html",
+    "title": "Musing",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   }

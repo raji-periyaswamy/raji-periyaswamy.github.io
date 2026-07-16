@@ -1,1 +1,37 @@
 /* css styles */
+.navbar {
+  background-color: #325D88 !important;
+}
+.navbar-dark .navbar-nav .nav-link,
+.navbar-dark .navbar-brand {
+  color: #ffffff !important;
+}
+
+.quarto-about-jolla {
+  display: flex;
+  flex-direction: column;
+}
+
+#about-block {
+  text-align: center;
+}
+
+.about-contents {
+  display: contents;
+}
+
+#tamil-quote {
+  text-align: center;
+  font-size: 1.3em;
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+.about-entity {
+  order: 2;
+}
+
+#bio-text {
+  order: 3;
+}

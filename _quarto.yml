@@ -3,12 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "raji-periyaswamy"
+  title: "Rajeshwari Periyaswamy"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Welcome
       - Focus.qmd
       - Unwind.qmd
       - Musing.qmd
@@ -16,9 +15,9 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: 
+      light: Sandstone
+      dark: Slate
     css: styles.css
     toc: true
 

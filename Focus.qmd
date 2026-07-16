@@ -1,9 +1,90 @@
 ---
-title: "About"
+title: "Focus"
+subtitle: "Sustainability & ESG Analyst | Data Analyst | Data Science | Business Intelligence"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+## Contact
+
+**Rajeshwari Periyaswamy**
+Chennai, India
+[rajeshwariperiyaswamy@gmail.com](mailto:rajeshwariperiyaswamy@gmail.com) | WhatsApp: +91 81229 56309 | [LinkedIn](https://www.linkedin.com/in/rperiyaswamy)
+
+## Professional Summary
+
+Results-driven Data Analyst with 2+ years of industry experience in BI and data engineering at Infosys, and 2 years of advanced research applying data science to real-world sustainability problems at the University of Florida (CGPA 4.0/4.0). Skilled in end-to-end analytics from SQL-based data pipelines and Python automation to interactive dashboards (Power BI, Tableau, R Shiny) and statistical modeling. Combines strong technical depth with domain expertise in supply chain, environmental data, and Life Cycle Assessment (LCA).
+
+## Technical Skills
+
+**Languages & Querying:** Python, R, SQL, Java, C, C++, HTML
+
+**BI & Visualization:** Power BI, Tableau, R Shiny (interactive dashboards), Cognos
+
+**Data Engineering:** MySQL, Informatica ETL, data pipeline automation, RDBMS
+
+**Analytics & Modeling:** Statistical Modeling, Exploratory Data Analysis (EDA), Life Cycle Assessment (LCA), Quantitative Microbial Risk Assessment (QMRA)
+
+**Tools & Platforms:** SimaPro, OpenLCA, Microsoft Office Suite, Git
+
+**Soft Skills:** Cross-functional collaboration, technical documentation, stakeholder reporting, research communication
+
+## Professional Experience
+
+### Graduate Research Analyst (Data & Sustainability)
+**University of Florida, Gainesville, FL, USA** | Aug 2024 -- May 2026
+
+- Led a comparative Life Cycle Assessment (LCA) study on fresh produce secondary transport packaging, modelling environmental data across the entire US--EU supply chain using SimaPro and OpenLCA, producing actionable insights on carbon footprint and resource use
+- Built an interactive R Shiny dashboard with Plotly visualizations for real-time LCA scenario comparison, including dynamic breakeven analysis and automated Quarto HTML report generation for users
+- Developed a dynamic Power BI dashboard to display and communicate LCA results to non-technical stakeholders
+- Applied QMRA statistical frameworks (R: biogrowth, mc2d) to model microbial contamination risk in fresh produce, performing EDA, normality testing, and distribution fitting on experimental datasets
+- Completed R Data Wrangling & EDA and R Data Analysis certifications (UF IT Training, Summer 2026), covering data transformation, outlier detection, and advanced ggplot2 visualizations
+
+### Postgraduate Research Assistant
+**IIT Kharagpur, India** | Jul 2017 -- May 2019
+
+- Conducted molecular and biochemical analyses, applying data interpretation skills to enzyme kinetics datasets -- cloned and characterized a β-Lactamase gene using quantitative assay data
+- Performed bioinformatics analyses (NCBI BLAST, CLUSTAL W) on protein sequence datasets, applying computational tools to draw comparative conclusions across species
+
+### Systems Engineer -- Business Intelligence & Data Analytics
+**Infosys Limited, Chennai, India** | Sep 2015 -- May 2017
+
+- Developed Python and MySQL based data automation systems for a multinational telecommunications client, reducing manual data processing efforts by streamlining batch jobs and ETL workflows
+- Designed and maintained relational database models supporting BI reporting needs; worked with Informatica for data integration across source systems
+- Built Cognos and Tableau dashboards to present KPIs and operational metrics to client stakeholders, enabling faster decision-making
+- Collaborated in Agile delivery teams, translating business requirements into technical data solutions
+
+## Education
+
+**M.S. Agricultural and Biological Engineering**
+University of Florida, USA | Aug 2024 -- May 2026
+CGPA: 4.00/4.00 | Graduate Research Assistant (Institute Fellowship)
+
+**M.Tech. Biotechnology & Biochemical Engineering**
+IIT Kharagpur, India | Jul 2017 -- May 2019
+CGPA: 8.95/10 | GATE Scholar (Government of India Merit Scholarship)
+
+**B.Tech. Biotechnology**
+Mepco Schlenk Engineering College, Anna University, India | Aug 2011 -- Apr 2015
+CGPA: 7.23/10 | Best Final Year Project Award
+
+## Key Projects
+
+### LCA Data Dashboard (R Shiny + Plotly)
+*Academic* | 2025 -- 2026
+
+- Built a multi-panel Shiny app comparing environmental impact categories (ReCiPe 2016, TRACI 2.2) across packaging scenarios with hover tooltips, dynamic breakeven analysis, and one-click HTML report export
+- Solved complex rendering bugs (zero-sum charts, NA YAML serialization) and implemented .rds-based data transfer between Shiny and Quarto, demonstrating systematic debugging and full-stack R development
+
+## Certifications & Trainings
+
+- R Data Wrangling & EDA -- University of Florida IT Training (May 2026)
+- R Data Analysis -- University of Florida IT Training (Jun 2026)
+- Diploma in Computer Application (DCA) -- SRM Infotech (May 2011)
+
+## Publications
+
+- Periyaswamy, R. (2021). Developmental Biotechnology. In *Comprehensive Life Sciences Vol. I*. Viva Books, New Delhi. ISBN: 9789390054886
+- Periyaswamy, R. (2021). Fundamental Biotechnology. In *Comprehensive Life Sciences Vol. II*. Viva Books, New Delhi. ISBN: 9789390054893
+- Periyaswamy, R. (2020). Molecular Biology & Recombinant DNA Technology. In *Elements of DBT JRF Biotechnology*. Viva Books. ISBN: 9789389662528
+- Periyaswamy, R. (2020). Immunology. In *Elements of DBT JRF Biotechnology*. Viva Books. ISBN: 9789389662528
+
