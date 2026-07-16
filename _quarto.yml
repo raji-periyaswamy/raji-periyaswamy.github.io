@@ -9,6 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Focus.qmd
+      - Unwind.qmd
+      - Musing.qmd
+      
 
 format:
   html:
