@@ -7,18 +7,13 @@
   color: #ffffff !important;
 }
 
-.quarto-about-jolla {
-  display: flex;
-  flex-direction: column;
-}
+
 
 #about-block {
   text-align: center;
 }
 
-.about-contents {
-  display: contents;
-}
+
 
 #tamil-quote {
   text-align: center;
@@ -26,12 +21,4 @@
   font-style: italic;
   font-weight: bold;
   margin-bottom: 1em;
-}
-
-.about-entity {
-  order: 2;
-}
-
-#bio-text {
-  order: 3;
 }
