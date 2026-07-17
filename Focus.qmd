@@ -1,8 +1,14 @@
 ---
 title: "Focus"
-subtitle: "Sustainability & ESG Analyst | Data Analyst | Data Science | Business Intelligence"
+title-block-style: none
 ---
 
+::: {#tamil-quote-1}
+கற்றது கைமண் அளவு, கல்லாதது உலகளவு
+:::
+
+# Focus
+### Biotechnologist | Sustainability & ESG Analyst | Data Analyst | Data Science | Business Intelligence
 
 ## Contact
 
@@ -53,19 +59,55 @@ Results-driven Data Analyst with 2+ years of industry experience in BI and data 
 - Built Cognos and Tableau dashboards to present KPIs and operational metrics to client stakeholders, enabling faster decision-making
 - Collaborated in Agile delivery teams, translating business requirements into technical data solutions
 
+
 ## Education
 
-**M.S. Agricultural and Biological Engineering**
-University of Florida, USA | Aug 2024 -- May 2026
-CGPA: 4.00/4.00 | Graduate Research Assistant (Institute Fellowship)
+```{=html}
+<div class="edu-timeline">
+  <div class="edu-timeline-track">
 
-**M.Tech. Biotechnology & Biochemical Engineering**
-IIT Kharagpur, India | Jul 2017 -- May 2019
-CGPA: 8.95/10 | GATE Scholar (Government of India Merit Scholarship)
+    <div class="edu-node top">
+      <div class="edu-year-circle" style="border-color:#E8A33D; color:#E8A33D;">2011</div>
+      <div class="edu-connector" style="background:#E8A33D;"></div>
+      <div class="edu-info">
+        <div class="edu-degree">Diploma in Computer Application</div>
+        <div class="edu-school">SRM Infotech</div>
+      </div>
+    </div>
 
-**B.Tech. Biotechnology**
-Mepco Schlenk Engineering College, Anna University, India | Aug 2011 -- Apr 2015
-CGPA: 7.23/10 | Best Final Year Project Award
+    <div class="edu-node bottom">
+      <div class="edu-connector" style="background:#8E6BC4;"></div>
+      <div class="edu-year-circle" style="border-color:#8E6BC4; color:#8E6BC4;">2011–15</div>
+      <div class="edu-info">
+        <div class="edu-degree">B.Tech, Biotechnology</div>
+        <div class="edu-school">Mepco Schlenk Engineering College, Anna University</div>
+        <div class="edu-honors">CGPA 7.23/10 &middot; Best Final Year Project Award</div>
+      </div>
+    </div>
+
+    <div class="edu-node top">
+      <div class="edu-year-circle" style="border-color:#325D88; color:#325D88;">2017–19</div>
+      <div class="edu-connector" style="background:#325D88;"></div>
+      <div class="edu-info">
+        <div class="edu-degree">M.Tech, Biotechnology &amp; Biochemical Engineering</div>
+        <div class="edu-school">IIT Kharagpur</div>
+        <div class="edu-honors">CGPA 8.95/10 &middot; GATE Scholar</div>
+      </div>
+    </div>
+
+    <div class="edu-node bottom">
+      <div class="edu-connector" style="background:#D9435E;"></div>
+      <div class="edu-year-circle" style="border-color:#D9435E; color:#D9435E;">2024–26</div>
+      <div class="edu-info">
+        <div class="edu-degree">M.S., Agricultural &amp; Biological Engineering</div>
+        <div class="edu-school">University of Florida</div>
+        <div class="edu-honors">CGPA 4.00/4.00 &middot; Institute Fellowship</div>
+      </div>
+    </div>
+
+  </div>
+</div>
+```
 
 ## Key Projects
 

@@ -18,13 +18,14 @@ about:
       href: mailto:scsik@ucsb.edu
 ---
 ::: {#tamil-quote}
-அறிவது என்னில், அன்பென அறிந்து
+அச்சம் தவிர் ![](media/bharathiyar.png){.tamil-icon} \
+நிமிர்ந்த நன்னடை நேர்கொண்ட பார்வையும், நிலத்தில் யார்க்கும் அஞ்சாத நெறிகளும்
 :::
 
 ::: {#about-block}
 Hi there! \
-I am Rajeshwari Periyaswamy (pronounced "ruh-JESH-wuh-ree peh-ree-yuh-SWAH-mee").\
-I prefer to be called Raji (pronounced "RAH-jee").\
+I am Raji (pronounced "RAH-jee").\
 
 I am a graduate research assistant at the University of Florida, where I apply Life Cycle Assessment (LCA) and systems modeling to analyze sustainability in supply chain logistics. I'm a first-generation graduate and researcher — the first in my family to complete a college degree, let alone go on to a Master's. That journey has shaped how I think as a researcher: driven by perseverance, curiosity, and a deep respect for education.
 :::
+

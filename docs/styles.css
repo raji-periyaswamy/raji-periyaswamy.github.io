@@ -1,4 +1,7 @@
 /* css styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Kavivanar&display=swap');
+
 .navbar {
   background-color: #325D88 !important;
 }
@@ -16,9 +19,117 @@
 
 
 #tamil-quote {
+  font-family: 'Kavivanar', cursive;
+  font-weight: 400;
   text-align: center;
   font-size: 1.3em;
   font-style: italic;
   font-weight: bold;
   margin-bottom: 1em;
+}
+
+#tamil-quote .tamil-icon {
+  height: 1.5em;
+  width: auto;
+  vertical-align: middle;
+  margin-left: 0.35em;
+  display: inline-block;
+}
+
+#tamil-quote-1 {
+  font-family: 'Kavivanar', cursive;
+  font-weight: 400;
+  text-align: center;
+  font-size: 1.3em;
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+/* Education timeline */
+.edu-timeline {
+  position: relative;
+  padding: 60px 20px 20px;
+  overflow-x: auto;
+}
+.edu-timeline-track {
+  display: flex;
+  align-items: center;
+  min-width: 700px;
+  position: relative;
+}
+.edu-timeline-track::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: #d9d9d9;
+  border-radius: 4px;
+  transform: translateY(-50%);
+  z-index: 0;
+}
+.edu-node {
+  flex: 1;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 1;
+}
+.edu-node.top { justify-content: flex-end; }
+.edu-node.bottom { justify-content: flex-start; }
+.edu-year-circle {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: 3px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.9em;
+  background: #fff;
+  z-index: 2;
+}
+.edu-node.top .edu-year-circle { order: 1; margin-bottom: -3px; }
+.edu-connector {
+  width: 3px;
+  height: 40px;
+}
+.edu-node.top .edu-connector { order: 2; }
+.edu-node.bottom .edu-connector { order: 1; }
+.edu-info {
+  max-width: 170px;
+  text-align: center;
+  padding: 10px;
+}
+.edu-node.top .edu-info { order: 3; }
+.edu-node.bottom .edu-info { order: 2; }
+.edu-degree {
+  font-weight: 700;
+  font-size: 0.88em;
+  margin-bottom: 3px;
+}
+.edu-school {
+  font-size: 0.78em;
+  color: #555;
+}
+.edu-honors {
+  font-size: 0.72em;
+  color: #888;
+  margin-top: 2px;
+  font-style: italic;
+}
+
+@media (max-width: 700px) {
+  .edu-timeline-track { flex-direction: column; min-width: 0; }
+  .edu-timeline-track::before { top: 0; bottom: 0; left: 50%; width: 6px; height: 100%; }
+  .edu-node, .edu-node.top, .edu-node.bottom {
+    flex-direction: row !important;
+    margin: 20px 0;
+    width: 100%;
+  }
+  .edu-connector { width: 40px; height: 3px; }
 }
