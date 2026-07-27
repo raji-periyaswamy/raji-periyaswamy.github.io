@@ -1,14 +1,115 @@
 ---
-title: "Focus"
 title-block-style: none
+toc: false
 ---
 
 ::: {#tamil-quote-1}
 கற்றது கைமண் அளவு, கல்லாதது உலகளவு
 :::
 
-# Focus
-### Biotechnologist | Sustainability & ESG Analyst | Data Analyst | Data Science | Business Intelligence
+### Biotechnologist | Sustainability & ESG Analyst | Data Analyst | Data Science | Business Intelligence {#headline}
+
+
+```{=html}
+<div class="edu-timeline">
+  <div class="edu-timeline-track">
+    <div class="edu-node top">
+      <div class="edu-skills">
+        <span class="edu-skill-tag">Life Cycle Assessment (LCA)</span>
+        <span class="edu-skill-tag">R Programming</span>
+        <span class="edu-skill-tag">Statistical Modeling</span>
+        <span class="edu-skill-tag">Data Science</span>
+        <span class="edu-skill-tag">Quantitative Microbial Risk Assessment (QMRA)</span>
+        <span class="edu-skill-tag">Data Visualization (Power BI, R Shiny, MS Excel)</span>
+        <span class="edu-skill-tag">Exploratory Data Analysis (EDA)</span>
+      </div>
+      <div class="edu-year-circle" style="border-color:#D9435E;">
+        <span>2024</span><span class="year-dash">-</span><span>2026</span>
+      </div>
+      <div class="edu-connector" style="background:#D9435E;"></div>
+      <div class="edu-info">
+        <div class="edu-degree">M.S., Agricultural &amp; Biological Engineering</div>
+        <div class="edu-school">University of Florida</div>
+        <div class="edu-honors">CGPA 4.00/4.00 &middot; Institute Fellowship</div>
+      </div>
+    </div>
+    <div class="edu-node bottom">
+      <div class="edu-skills">
+        <span class="edu-skill-tag">Molecular Genetic Techniques (Cloning, Protein Expression &amp; Optimization, Protein Purification)</span>
+        <span class="edu-skill-tag">SDS-PAGE</span>
+        <span class="edu-skill-tag">Western Blot</span>
+        <span class="edu-skill-tag">ELISA</span>
+        <span class="edu-skill-tag">Sequence Analysis</span>
+        <span class="edu-skill-tag">DNA Sequence Construction</span>
+      </div>
+      <div class="edu-year-circle" style="border-color:#325D88;">
+        <span>2017</span><span class="year-dash">-</span><span>2019</span>
+      </div>
+      <div class="edu-connector" style="background:#325D88;"></div>
+      <div class="edu-info">
+        <div class="edu-degree">M.Tech, Biotechnology &amp; Biochemical Engineering</div>
+        <div class="edu-school">IIT Kharagpur</div>
+        <div class="edu-honors">CGPA 8.95/10 &middot; GATE Scholar</div>
+      </div>
+    </div>
+    <div class="edu-node top">
+      <div class="edu-skills">
+        <span class="edu-skill-tag">Python</span>
+        <span class="edu-skill-tag">SQL</span>
+        <span class="edu-skill-tag">MySQL</span>
+        <span class="edu-skill-tag">Informatica ETL</span>
+        <span class="edu-skill-tag">Data Pipeline Automation</span>
+        <span class="edu-skill-tag">RDBMS</span>
+        <span class="edu-skill-tag">Tableau</span>
+        <span class="edu-skill-tag">Cognos</span>
+        <span class="edu-skill-tag">Microsoft Office Suite</span>
+      </div>
+      <div class="edu-year-circle" style="border-color:#2E9E8F;">
+        <span>2015</span><span class="year-dash">-</span><span>2017</span>
+      </div>
+      <div class="edu-connector" style="background:#2E9E8F;"></div>
+      <div class="edu-info">
+        <div class="edu-degree">Systems Engineer</div>
+        <div class="edu-school">Infosys Limited</div>
+        <div class="edu-honors">Business Intelligence, Data &amp; Analytics</div>
+      </div>
+    </div>
+    <div class="edu-node top">
+      <div class="edu-skills">
+        <span class="edu-skill-tag">Bioinformatics Analysis</span>
+        <span class="edu-skill-tag">NCBI BLAST</span>
+        <span class="edu-skill-tag">CLUSTAL W</span>
+        <span class="edu-skill-tag">Protein Sequence Datasets</span>
+      </div>
+      <div class="edu-year-circle" style="border-color:#8E6BC4;">
+        <span>2011</span><span class="year-dash">-</span><span>2015</span>
+      </div>
+      <div class="edu-connector" style="background:#8E6BC4;"></div>
+      <div class="edu-info">
+        <div class="edu-degree">B.Tech, Biotechnology</div>
+        <div class="edu-school">Mepco Schlenk Engineering College, Anna University</div>
+        <div class="edu-honors">CGPA 7.23/10 &middot; Best Final Year Project Award</div>
+      </div>
+    </div>
+    <div class="edu-node bottom">
+      <div class="edu-skills">
+        <span class="edu-skill-tag">Java</span>
+        <span class="edu-skill-tag">C</span>
+        <span class="edu-skill-tag">C++</span>
+        <span class="edu-skill-tag">HTML</span>
+        <span class="edu-skill-tag">Python</span>
+        <span class="edu-skill-tag">SQL</span>
+      </div>
+      <div class="edu-year-circle" style="border-color:#E8A33D;">2011</div>
+      <div class="edu-connector" style="background:#E8A33D;"></div>
+      <div class="edu-info">
+        <div class="edu-degree">Diploma in Computer Application</div>
+        <div class="edu-school">SRM Infotech</div>
+      </div>
+    </div>
+  </div>
+</div>
+```
 
 ## Contact
 
@@ -59,55 +160,6 @@ Results-driven Data Analyst with 2+ years of industry experience in BI and data 
 - Built Cognos and Tableau dashboards to present KPIs and operational metrics to client stakeholders, enabling faster decision-making
 - Collaborated in Agile delivery teams, translating business requirements into technical data solutions
 
-
-## Education
-
-```{=html}
-<div class="edu-timeline">
-  <div class="edu-timeline-track">
-
-    <div class="edu-node top">
-      <div class="edu-year-circle" style="border-color:#E8A33D; color:#E8A33D;">2011</div>
-      <div class="edu-connector" style="background:#E8A33D;"></div>
-      <div class="edu-info">
-        <div class="edu-degree">Diploma in Computer Application</div>
-        <div class="edu-school">SRM Infotech</div>
-      </div>
-    </div>
-
-    <div class="edu-node bottom">
-      <div class="edu-connector" style="background:#8E6BC4;"></div>
-      <div class="edu-year-circle" style="border-color:#8E6BC4; color:#8E6BC4;">2011–15</div>
-      <div class="edu-info">
-        <div class="edu-degree">B.Tech, Biotechnology</div>
-        <div class="edu-school">Mepco Schlenk Engineering College, Anna University</div>
-        <div class="edu-honors">CGPA 7.23/10 &middot; Best Final Year Project Award</div>
-      </div>
-    </div>
-
-    <div class="edu-node top">
-      <div class="edu-year-circle" style="border-color:#325D88; color:#325D88;">2017–19</div>
-      <div class="edu-connector" style="background:#325D88;"></div>
-      <div class="edu-info">
-        <div class="edu-degree">M.Tech, Biotechnology &amp; Biochemical Engineering</div>
-        <div class="edu-school">IIT Kharagpur</div>
-        <div class="edu-honors">CGPA 8.95/10 &middot; GATE Scholar</div>
-      </div>
-    </div>
-
-    <div class="edu-node bottom">
-      <div class="edu-connector" style="background:#D9435E;"></div>
-      <div class="edu-year-circle" style="border-color:#D9435E; color:#D9435E;">2024–26</div>
-      <div class="edu-info">
-        <div class="edu-degree">M.S., Agricultural &amp; Biological Engineering</div>
-        <div class="edu-school">University of Florida</div>
-        <div class="edu-honors">CGPA 4.00/4.00 &middot; Institute Fellowship</div>
-      </div>
-    </div>
-
-  </div>
-</div>
-```
 
 ## Key Projects
 

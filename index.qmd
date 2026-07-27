@@ -9,23 +9,24 @@ about:
   image-width: 17em
   links:
     - text: LinkedIn
-      href: https://www.linkedin.com/in/samanthacsik/
+      href: www.linkedin.com/in/rperiyaswamy
       target: _blank
     - text: GitHub
-      href: https://github.com/samanthacsik
+      href: https://github.com/raji-periyaswamy
       target: _blank 
     - text: Email
-      href: mailto:scsik@ucsb.edu
+      href: rajeshwariperiyaswamy@gmail.com
 ---
 ::: {#tamil-quote}
 அச்சம் தவிர் ![](media/bharathiyar.png){.tamil-icon} \
-நிமிர்ந்த நன்னடை நேர்கொண்ட பார்வையும், நிலத்தில் யார்க்கும் அஞ்சாத நெறிகளும்
 :::
 
 ::: {#about-block}
 Hi there! \
 I am Raji (pronounced "RAH-jee").\
 
-I am a graduate research assistant at the University of Florida, where I apply Life Cycle Assessment (LCA) and systems modeling to analyze sustainability in supply chain logistics. I'm a first-generation graduate and researcher — the first in my family to complete a college degree, let alone go on to a Master's. That journey has shaped how I think as a researcher: driven by perseverance, curiosity, and a deep respect for education.
+I work at the intersection of sustainability science and data analytics
+
+I apply Life Cycle Assessment and Bio-Systems Modeling to sustainability questions in supply chain logistics, most recently at the University of Florida. I'm also the first in my family to earn a college degree, a fact that still shapes how I approach research: I tend to ask why a system works the way it does before I ask how to optimize it.
 :::
 

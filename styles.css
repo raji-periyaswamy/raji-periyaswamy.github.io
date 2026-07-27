@@ -1,33 +1,28 @@
 /* css styles */
-
 @import url('https://fonts.googleapis.com/css2?family=Kavivanar&display=swap');
-
 .navbar {
-  background-color: #325D88 !important;
+  background-color: 
+#325D88 !important;
 }
 .navbar-dark .navbar-nav .nav-link,
 .navbar-dark .navbar-brand {
-  color: #ffffff !important;
+  color: 
+#ffffff !important;
 }
-
-
-
 #about-block {
   text-align: center;
 }
-
-
-
+/* Tamil Quote in welcome page (index.qmd) */
 #tamil-quote {
   font-family: 'Kavivanar', cursive;
   font-weight: 400;
   text-align: center;
-  font-size: 1.3em;
+  font-size: 1.2em;
   font-style: italic;
   font-weight: bold;
   margin-bottom: 1em;
 }
-
+/* Bharathiya pic icon in welcome page (index.qmd) */
 #tamil-quote .tamil-icon {
   height: 1.5em;
   width: auto;
@@ -35,101 +30,181 @@
   margin-left: 0.35em;
   display: inline-block;
 }
-
+/* Tamizh quote Focus.qmd */
 #tamil-quote-1 {
   font-family: 'Kavivanar', cursive;
   font-weight: 400;
   text-align: center;
-  font-size: 1.3em;
+  font-size: 0.8em;
   font-style: italic;
   font-weight: bold;
   margin-bottom: 1em;
 }
-
+/* This contols the headline in Focus.qmd */
+#headline {
+  color: steelblue;
+  text-align: center;
+  white-space: nowrap;
+  font-size: clamp(0.85rem, 2.8vw, 1.6rem);
+  margin-bottom: 1em;
+}
+@media (max-width: 500px) {
+  #headline {
+    white-space: normal;
+    line-height: 1.4;
+  }
+}
 /* Education timeline */
 .edu-timeline {
-  position: relative;
+  max-width: 900px;
+  margin: 0 auto;
   padding: 60px 20px 20px;
-  overflow-x: auto;
 }
 .edu-timeline-track {
-  display: flex;
-  align-items: center;
-  min-width: 700px;
   position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  width: fit-content;
+  margin: 0 auto;
 }
 .edu-timeline-track::before {
   content: "";
   position: absolute;
-  top: 50%;
-  left: 0;
-  right: 0;
-  height: 6px;
-  background: #d9d9d9;
-  border-radius: 4px;
-  transform: translateY(-50%);
+  left: 486px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: 
+#e2e2e2;
   z-index: 0;
 }
 .edu-node {
-  flex: 1;
+  display: grid;
+  grid-template-columns: 420px 84px minmax(260px, 420px);
+  column-gap: 24px;
+  align-items: center;
   position: relative;
+}
+.edu-skill-tag {
+  font-size: 0.9rem;
+  color: #000;
+  background: 
+#f1f1f1;
+  border-radius: 14px;
+  padding: 5px 14px;
+  white-space: normal;
+  max-width: 100%;
+  line-height: 1.3;
+}
+
+.edu-year-circle {
+  flex: 0 0 auto;
+  width: 84px;
+  height: 84px;
+  border-radius: 50%;
+  border: 3px solid;
+  background: #fff;
   display: flex;
   flex-direction: column;
   align-items: center;
-  z-index: 1;
-}
-.edu-node.top { justify-content: flex-end; }
-.edu-node.bottom { justify-content: flex-start; }
-.edu-year-circle {
-  width: 64px;
-  height: 64px;
-  border-radius: 50%;
-  border: 3px solid;
-  display: flex;
-  align-items: center;
   justify-content: center;
   font-weight: 700;
-  font-size: 0.9em;
-  background: #fff;
-  z-index: 2;
-}
-.edu-node.top .edu-year-circle { order: 1; margin-bottom: -3px; }
-.edu-connector {
-  width: 3px;
-  height: 40px;
-}
-.edu-node.top .edu-connector { order: 2; }
-.edu-node.bottom .edu-connector { order: 1; }
-.edu-info {
-  max-width: 170px;
+  font-size: 0.85rem;
+  line-height: 1.1;
   text-align: center;
-  padding: 10px;
+  color: #000;
+  z-index: 1;
 }
-.edu-node.top .edu-info { order: 3; }
-.edu-node.bottom .edu-info { order: 2; }
+.edu-year-circle .year-dash {
+  font-weight: 400;
+  font-size: 0.75rem;
+  opacity: 0.6;
+}
+.edu-connector {
+  display: none;
+}
+.edu-info {
+  padding-top: 10px;
+}
 .edu-degree {
   font-weight: 700;
-  font-size: 0.88em;
-  margin-bottom: 3px;
+  font-size: 1.1rem;
+  color: #000;
 }
 .edu-school {
-  font-size: 0.78em;
-  color: #555;
+  font-size: 1.1rem;
+  color: #000;
+  margin-top: 2px;
 }
 .edu-honors {
-  font-size: 0.72em;
-  color: #888;
-  margin-top: 2px;
+  color: #000;
+  font-size: 0.9rem;
+  margin-top: 4px;
+}
+/* Education timeline — responsive */
+@media (max-width: 700px) {
+  .edu-timeline {
+    padding: 40px 10px 10px;
+  }
+  .edu-timeline-track::before {
+    left: 50%;
+    transform: translateX(-1px);
+  }
+  .edu-node {
+    grid-template-columns: 1fr;
+    row-gap: 10px;
+    justify-items: center;
+    text-align: center;
+  }
+  .edu-year-circle {
+    order: 1;
+  }
+  .edu-skills {
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 6px;
+  padding-top: 6px;
+  min-width: 0;
+  }
+  
+  .edu-info {
+    order: 3;
+    padding-top: 0;
+    max-width: 320px;
+  }
+}
+.poem {
+  font-family: "Georgia", "Iowan Old Style", serif;
+  font-size: 1.15rem;
+  line-height: 1.9;
+  max-width: 42em;
+  margin: 3rem auto;
+  padding: 1.5rem 2rem;
+  border-left: 3px solid 
+#b8a99a;
+  background-color: 
+#faf7f2;
+  color: 
+#6b5d4f;
   font-style: italic;
 }
-
-@media (max-width: 700px) {
-  .edu-timeline-track { flex-direction: column; min-width: 0; }
-  .edu-timeline-track::before { top: 0; bottom: 0; left: 50%; width: 6px; height: 100%; }
-  .edu-node, .edu-node.top, .edu-node.bottom {
-    flex-direction: row !important;
-    margin: 20px 0;
-    width: 100%;
-  }
-  .edu-connector { width: 40px; height: 3px; }
+.poem-title {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: 
+#2e2a26;
+   text-align: center;
+  margin-bottom: 1rem;
+}
+.poem-signoff {
+  display: block;
+  text-align: right;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: 
+#6b5d4f;
+  margin-top: 1.5rem;
 }

@@ -8,9 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Welcome
-      - Focus.qmd
-      - Unwind.qmd
-      - Musing.qmd
+      - href: Focus.qmd
+        text: Focus
+      - href: Unwind.qmd
+        text: Unwind
+      - href: Musing.qmd
+        text: Musing
       
 
 format:
