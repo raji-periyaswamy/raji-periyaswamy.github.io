@@ -24,9 +24,7 @@ about:
 ::: {#about-block}
 Hi there! \
 I am Raji (pronounced "RAH-jee").\
+I work at the intersection of Data Analytics, Sustainability Science, and Bio-Systems Modeling. I tend to analyze why a system works the way it does before I ask how to optimize it.
 
-I work at the intersection of sustainability science and data analytics
-
-I apply Life Cycle Assessment and Bio-Systems Modeling to sustainability questions in supply chain logistics, most recently at the University of Florida. I'm also the first in my family to earn a college degree, a fact that still shapes how I approach research: I tend to ask why a system works the way it does before I ask how to optimize it.
 :::
 
