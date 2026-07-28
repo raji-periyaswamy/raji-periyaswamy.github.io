@@ -8,23 +8,24 @@ about:
   image-shape: round
   image-width: 17em
   links:
-    - text: LinkedIn
-      href: www.linkedin.com/in/rperiyaswamy
+    - icon: linkedin
+      href: http://www.linkedin.com/in/rperiyaswamy
       target: _blank
-    - text: GitHub
+    - icon: github
       href: https://github.com/raji-periyaswamy
       target: _blank 
-    - text: Email
-      href: rajeshwariperiyaswamy@gmail.com
+    - icon: envelope
+      href: mailto:rajeshwariperiyaswamy@gmail.com
 ---
 ::: {#tamil-quote}
 அச்சம் தவிர் ![](media/bharathiyar.png){.tamil-icon} \
 :::
 
 ::: {#about-block}
+::: {.about-text}
 Hi there! \
 I am Raji (pronounced "RAH-jee").\
 I work at the intersection of Data Analytics, Sustainability Science, and Bio-Systems Modeling. I tend to analyze why a system works the way it does before I ask how to optimize it.
-
+:::
 :::
 

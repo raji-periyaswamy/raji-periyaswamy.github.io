@@ -4,7 +4,7 @@ toc: false
 ---
 
 ::: {#tamil-quote-1}
-கற்றது கைமண் அளவு, கல்லாதது உலகளவு
+கற்றது கைமண் அளவு, கல்லாதது உலகளவு !
 :::
 
 ### Biotechnologist | Sustainability & ESG Analyst | Data Analyst | Data Science | Business Intelligence {#headline}

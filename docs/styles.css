@@ -9,15 +9,16 @@
   color: 
 #ffffff !important;
 }
-#about-block {
+.about-text {
   text-align: center;
+  font-size: 1.2em;
 }
 /* Tamil Quote in welcome page (index.qmd) */
 #tamil-quote {
   font-family: 'Kavivanar', cursive;
   font-weight: 400;
   text-align: center;
-  font-size: 1.2em;
+  font-size: 2em;
   font-style: italic;
   font-weight: bold;
   margin-bottom: 1em;
@@ -40,6 +41,18 @@
   font-weight: bold;
   margin-bottom: 1em;
 }
+
+/* Tamizh quote Unwind.qmd */
+#tamil-quote-2 {
+  font-family: 'Kavivanar', cursive;
+  font-weight: 400;
+  text-align: center;
+  font-size: 1.2em;
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
 /* This contols the headline in Focus.qmd */
 #headline {
   color: steelblue;
