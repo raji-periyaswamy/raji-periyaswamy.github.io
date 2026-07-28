@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Rajeshwari Periyaswamy"
+  favicon: media/photo2.png
   navbar:
     left:
       - href: index.qmd

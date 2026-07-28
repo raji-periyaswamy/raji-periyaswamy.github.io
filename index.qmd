@@ -23,6 +23,7 @@ about:
 
 ::: {#about-block}
 ::: {.about-text}
+![](media/photo1.png){.name-icon}
 Hi there! \
 I am Raji (pronounced "RAH-jee").\
 I work at the intersection of Data Analytics, Sustainability Science, and Bio-Systems Modeling. I tend to analyze why a system works the way it does before I ask how to optimize it.

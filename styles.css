@@ -31,6 +31,37 @@
   margin-left: 0.35em;
   display: inline-block;
 }
+
+
+#about-block .about-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: rgba(0, 0, 0, 0.06);
+  margin: 0 6px;
+  transition: background-color 0.2s ease;
+}
+
+#about-block .about-link:hover {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+
+#about-block .about-link .bi {
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+
+.name-icon {
+  width: 40px;
+  height: 40px;
+  display: block;
+  margin: 0.15rem auto 0.2rem auto;
+}
+
 /* Tamizh quote Focus.qmd */
 #tamil-quote-1 {
   font-family: 'Kavivanar', cursive;
