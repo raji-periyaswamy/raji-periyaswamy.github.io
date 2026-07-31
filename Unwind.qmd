@@ -1,6 +1,7 @@
 ---
 title-block-style: none
 toc: false
+page-layout: article
 ---
 
 ::: {#tamil-quote-2}
@@ -8,3 +9,27 @@ toc: false
 யாதுமாகி அழிந்து, \
 யாம் யாரென மீண்டெழுந்து வாழ் !
 :::
+
+:::: {.columns .unwind-columns}
+
+::: {.column width="45%" .unwind-photo}
+
+![Horizontal, Unbothered.](media/photo6.jpg){width=100% fig-align="center"}
+
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%" .unwind-text}
+
+I'm a Chennai girl at heart — city-raised, but with village roots running through me from grandparents who farmed the land, so I've got one foot in traffic and one in rice fields.\
+
+When I'm not knee-deep in data or LCA models, you'll probably find me hiking a trail, baking something that may or may not survive the weekend, or nose-deep in a book.\
+
+I'm equal parts biryani enthusiast and nature-documentary nerd (yes, I will tell you a random fact about octopuses unprompted), and I've got a serious soft spot for Tamil folk and street music — the kind that makes you want to get up and move.
+
+:::
+
+::::

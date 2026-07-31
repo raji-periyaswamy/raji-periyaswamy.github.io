@@ -78,10 +78,13 @@
   font-family: 'Kavivanar', cursive;
   font-weight: 400;
   text-align: center;
-  font-size: 1.2em;
+  font-size: 1em;
   font-style: italic;
   font-weight: bold;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
+  margin-top: -1rem;
+  min-height: 3em;
+  line-height: 1.5;
 }
 
 /* This contols the headline in Focus.qmd */
@@ -252,3 +255,37 @@
 #6b5d4f;
   margin-top: 1.5rem;
 }
+
+/* Unwind.qmd — pic + text layout */
+.unwind-columns {
+  padding-top: 12em;
+  align-items: center;
+}
+
+.unwind-photo figure {
+  margin-bottom: 0;
+  margin-top: 2em;
+}
+
+.unwind-photo figcaption {
+  margin-top: 0.3em;
+  font-style: italic;
+}
+
+.unwind-text p {
+  margin-bottom: 1em;
+}
+
+.unwind-text {
+  text-align: justify;
+  color: #000;
+  font-size: 1em;
+  padding-top: 4em;
+}
+
+#title-block-header.quarto-title-block {
+  display: none;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
